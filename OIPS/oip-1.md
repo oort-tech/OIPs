@@ -1,6 +1,6 @@
 ---
-eip: 1
-title: EIP Purpose and Guidelines
+oip: 1
+title: OIP Purpose and Guidelines
 status: Living
 created: 2023-10-19
 ---
