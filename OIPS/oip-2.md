@@ -25,7 +25,7 @@ The operational cycle, or 'epoch', is the interval for selecting block validator
 
 Creating a Witness Pool requires the setup of an Oort validator node by an account. To ensure receive 100% staking rewards, the validator node needs to function both effectively and reliably. The suggested hardware setup for running a validator node includes an **8-core CPU, 32GB of RAM, a 2TB SSD, and a network capacity of 100MB for inbound and outbound traffic**.
 
-Follow the instruction https://github.com/oort-tech/Olympus#readme on how to setup a Oort validator node, and how the create a witness pool.
+Follow the instruction https://github.com/oort-tech/Olympus#readme on how to setup a Oort validator node, and how to create a witness pool.
 
 ****Staking Commitment****
 
