@@ -24,4 +24,4 @@ Staking will be locked at the launch of mainnet with a lockup period of **6 mont
 
 Consider the “Genesis Witness” staking program as **one of the ways** to convert the Huygens CCN token to Olympus Protocol’s native token.
 
-Yields from the Genesis Witness operations, Olympus Protocol’s native tokens, will be allocated to stakeholders based on their respective share of the pool  they belong to. The distributions will occur on a **weekly** basis.
+Yields from the Genesis Witness operations, **Oort's mainnet tokens**, will be allocated to stakeholders based on their respective share of the pool they belong to. The distributions will occur on a **weekly** basis.
