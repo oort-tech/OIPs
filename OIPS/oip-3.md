@@ -1,6 +1,6 @@
 ---
 oip: 3
-title: Mainnet Bootup Scheme: Genesis Witness Staking
+title: Mainnet Bootup Scheme - Genesis Witness Staking
 author: metav
 created: 2023-11-20
 ---
