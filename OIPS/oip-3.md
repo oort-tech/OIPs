@@ -45,7 +45,7 @@ A witness's reward earned during the 6-month period can be calculated as follows
 #### Example
 Suppose the network distribution event occurs on January 1, 2024. Assume a staker has put $600$ CCN into the pool, and the APY of the pool is set to be 20%. The witness wants to take 10% commission from the pool earning. 
 
-The total reward earned by a witness up to July 1, 2024, will be $23,000 in OORT.
+The total reward earned by a witness up to July 1, 2024, will be $23,000$ OORT.
 
 The reward for the staker will be transferred to the staker's wallet according the following table.
 
